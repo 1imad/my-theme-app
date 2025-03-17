@@ -12,7 +12,7 @@ This project demonstrates how to create a real-time theme toggle (light/dark mod
 
 ## Demo
 
-[Demo Link](https://my-theme-app-eight.vercel.app/) (if applicable, link to the demo of your app).
+[Demo Link](https://my-theme-app-eight.vercel.app/)
 
 ## Prerequisites
 
